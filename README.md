@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning build node
 - 💞️ I’m looking to collaborate on everything🤗
-- 📫 How to reach me omerbkts61@hotmail.com
+- 📫 How to reach me @omerbekta_s on telegram.
 
 <!---
 omerbek/omerbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
